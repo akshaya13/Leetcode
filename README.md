@@ -100,4 +100,5 @@ Collection of LeetCode questions to ace the coding interview!
 | [1811-fix-names-in-a-table](https://github.com/akshaya13/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/akshaya13/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/akshaya13/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2041-the-latest-login-in-2020](https://github.com/akshaya13/Leetcode/tree/master/2041-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
