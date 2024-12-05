@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/akshaya13/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/akshaya13/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/akshaya13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshaya13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/akshaya13/Leetcode/tree/master/0242-valid-anagram) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/akshaya13/Leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshaya13/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/akshaya13/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaya13/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/akshaya13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshaya13/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -108,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [1908-recyclable-and-low-fat-products](https://github.com/akshaya13/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2024-calculate-special-bonus](https://github.com/akshaya13/Leetcode/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/akshaya13/Leetcode/tree/master/2041-the-latest-login-in-2020) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akshaya13/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
