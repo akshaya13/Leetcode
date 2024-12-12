@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/akshaya13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaya13/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/akshaya13/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2058-concatenation-of-array](https://github.com/akshaya13/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshaya13/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/akshaya13/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
