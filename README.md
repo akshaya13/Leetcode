@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/akshaya13/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/akshaya13/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akshaya13/Leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/akshaya13/Leetcode/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/akshaya13/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0125-valid-palindrome](https://github.com/akshaya13/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaya13/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/akshaya13/Leetcode/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaya13/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Stack
 |  |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshaya13/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshaya13/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/akshaya13/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0392-is-subsequence](https://github.com/akshaya13/Leetcode/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/akshaya13/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
 |  |
