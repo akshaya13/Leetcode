@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/akshaya13/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/akshaya13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaya13/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0965-unique-email-addresses](https://github.com/akshaya13/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/akshaya13/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## String
 |  |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/akshaya13/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akshaya13/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/akshaya13/Leetcode/tree/master/0392-is-subsequence) |
+| [0965-unique-email-addresses](https://github.com/akshaya13/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1250-longest-common-subsequence](https://github.com/akshaya13/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/akshaya13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/akshaya13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaya13/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0965-unique-email-addresses](https://github.com/akshaya13/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/akshaya13/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/akshaya13/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2058-concatenation-of-array](https://github.com/akshaya13/Leetcode/tree/master/2058-concatenation-of-array) |
