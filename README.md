@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0535-encode-and-decode-tinyurl](https://github.com/akshaya13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0965-unique-email-addresses](https://github.com/akshaya13/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1250-longest-common-subsequence](https://github.com/akshaya13/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/akshaya13/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sorting
 |  |
 | ------- |
