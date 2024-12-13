@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/akshaya13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshaya13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaya13/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/akshaya13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0965-unique-email-addresses](https://github.com/akshaya13/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/akshaya13/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## String
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/akshaya13/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshaya13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/akshaya13/Leetcode/tree/master/0392-is-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/akshaya13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0965-unique-email-addresses](https://github.com/akshaya13/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1250-longest-common-subsequence](https://github.com/akshaya13/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Sorting
@@ -150,4 +152,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akshaya13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/akshaya13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/akshaya13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
