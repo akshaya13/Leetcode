@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/akshaya13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/akshaya13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaya13/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0713-subarray-product-less-than-k](https://github.com/akshaya13/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0932-monotonic-array](https://github.com/akshaya13/Leetcode/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/akshaya13/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/akshaya13/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -65,10 +66,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akshaya13/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/akshaya13/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/akshaya13/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/akshaya13/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaya13/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaya13/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0713-subarray-product-less-than-k](https://github.com/akshaya13/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Database
 |  |
 | ------- |
