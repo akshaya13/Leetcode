@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/akshaya13/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/akshaya13/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2058-concatenation-of-array](https://github.com/akshaya13/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/akshaya13/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -157,10 +158,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/akshaya13/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/akshaya13/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akshaya13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2195-time-needed-to-buy-tickets](https://github.com/akshaya13/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Design
 |  |
 | ------- |
