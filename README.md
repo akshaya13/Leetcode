@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/akshaya13/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/akshaya13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshaya13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/akshaya13/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaya13/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/akshaya13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/akshaya13/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/akshaya13/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshaya13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/akshaya13/Leetcode/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/akshaya13/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/akshaya13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0965-unique-email-addresses](https://github.com/akshaya13/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akshaya13/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/akshaya13/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/akshaya13/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/akshaya13/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
