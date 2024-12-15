@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0532-k-diff-pairs-in-an-array](https://github.com/akshaya13/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/akshaya13/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0932-monotonic-array](https://github.com/akshaya13/Leetcode/tree/master/0932-monotonic-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/akshaya13/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0965-unique-email-addresses](https://github.com/akshaya13/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/akshaya13/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/akshaya13/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshaya13/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0954-maximum-sum-circular-subarray](https://github.com/akshaya13/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshaya13/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/akshaya13/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/akshaya13/Leetcode/tree/master/0392-is-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/akshaya13/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/akshaya13/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
 |  |
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akshaya13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/akshaya13/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2195-time-needed-to-buy-tickets](https://github.com/akshaya13/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Design
 |  |
@@ -172,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/akshaya13/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/akshaya13/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
