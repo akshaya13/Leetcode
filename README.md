@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshaya13/Leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/akshaya13/Leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshaya13/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshaya13/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshaya13/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/akshaya13/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaya13/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/akshaya13/Leetcode/tree/master/0392-is-subsequence) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshaya13/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshaya13/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/akshaya13/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
